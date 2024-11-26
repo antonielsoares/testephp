@@ -6,14 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    aqui começa o primeiro teste  </br>
-
-
-<?php
-
-echo"como vai você";
-
-?>
-
+    meu primeiro este PHP
 </body>
 </html>
